@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Eduard Briceño</h1>
 <h3 align="center">Soy Backend dev</h3>
 
-- 🔭 Estoy trabajando actualmente **Proyectos Propios, Crecimiento Personal**
+- 🔭 Estoy trabajando actualmente en **Proyectos Propios y Crecimiento Personal**
 
 - 👯 Colaborando con **Pixahi**
 
