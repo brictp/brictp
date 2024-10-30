@@ -3,9 +3,10 @@
 
 - 🔭 Estoy trabajando actualmente en **Proyectos Propios y Crecimiento Personal**
 
-- 👯 Colaborando con **Pixahi**
-
 - 📫 Contactame **eabriceno.21@gmail.com**
+
+- Chat a Tiempo Real https://newchat-n8qa.onrender.com
+- API de Venezuela https://vzla-states-api.onrender.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
