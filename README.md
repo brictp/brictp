@@ -2,7 +2,7 @@ Hey There ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 ======================================================================================================================================
 
 I Am Full Stack Web Developer
------------------------------
+--------------------------------------------------
 
 Focused on Backend↴
 
@@ -12,10 +12,10 @@ I enjoy working with collaborative teams, tackling challenges head-on, and conti
 Punctual, responsible, and enthusiastic, I value clear communication and a strong work ethic as the foundation for productive environments.↴
 
 * 🌍  I'm from in Venezuela
-* ✉️  Contact me at [eabriceno.21@gmail.com](mailto:eabriceno.21@gmail.com)
+* ✉️  Contact me [eabriceno.21@gmail.com](mailto:eabriceno.21@gmail.com)
 
 
-Some Projects:
+### Some Projects:
 * Chat https://newchat-n8qa.onrender.com
 * Venezuela API https://vzla-states-api.onrender.com
 
