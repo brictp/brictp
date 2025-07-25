@@ -7,19 +7,19 @@ I Am Full Stack Web Developer
 Focused on Backend↴
 
 I am passionate about writing clean, maintainable code and following best practices that lead to long-term scalability. ↴
-
 I’m actively open to job opportunities and collaborations↴
-
 I enjoy working with collaborative teams, tackling challenges head-on, and continuously learning from each project.↴
-
 Punctual, responsible, and enthusiastic, I value clear communication and a strong work ethic as the foundation for productive environments.↴
 
-* 🌍  I'm based in Venezuela
-* ✉️  You can contact me at [eabriceno.21@gmail.com](mailto:eabriceno.21@gmail.com)
+* 🌍  I'm from in Venezuela
+* ✉️  Contact me at [eabriceno.21@gmail.com](mailto:eabriceno.21@gmail.com)
+
 
 Some Projects:
 * Chat https://newchat-n8qa.onrender.com
 * Venezuela API https://vzla-states-api.onrender.com
+
+
 ### Skills
 
 <p align="left">
